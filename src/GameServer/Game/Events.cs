@@ -1,0 +1,5 @@
+﻿//ReSharperdisableonceChecknamespace 
+
+namespace NeoNetsphere.Game
+{
+}

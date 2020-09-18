@@ -1,0 +1,85 @@
+﻿using System;
+
+// ReSharper disable once Checknamespace 
+namespace NeoNetsphere
+{
+  public class CharacterException : Exception
+  {
+    public CharacterException(string message)
+        : base(message)
+    {
+    }
+  }
+
+  public class ChannelException : Exception
+  {
+    public ChannelException()
+    {
+    }
+
+    public ChannelException(string message)
+        : base(message)
+    {
+    }
+  }
+
+  public class ChannelLimitReachedException : ChannelException
+  {
+  }
+
+  public class ChannelLevelLimitException : ChannelException
+  {
+  }
+
+  public class LicenseException : Exception
+  {
+    public LicenseException(string message)
+        : base(message)
+    {
+    }
+  }
+
+  public class LicenseNotFoundException : LicenseException
+  {
+    public LicenseNotFoundException(string message)
+        : base(message)
+    {
+    }
+  }
+
+  public class InventoryException : Exception
+  {
+    public InventoryException(string message)
+        : base(message)
+    {
+    }
+  }
+
+  public class RoomException : Exception
+  {
+    public RoomException()
+    {
+    }
+
+    public RoomException(string message)
+        : base(message)
+    {
+    }
+  }
+
+  public class RoomLimitIsNoIntrutionException : RoomException
+  {
+  }
+
+  public class RoomLimitReachedException : RoomException
+  {
+  }
+
+  public class RoomAccessDeniedException : RoomException
+  {
+  }
+
+  public class TeamLimitReachedException : RoomException
+  {
+  }
+}

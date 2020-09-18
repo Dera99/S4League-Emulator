@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<EnchantSystem>
+	<Level value="0">
+		<Group category="Weapon" subcategory="0">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3299600001" amount="24" />
+		</Group>
+		<Group category="Weapon" subcategory="1">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3202613001" amount="16" />
+			<Effect value="3205607001" amount="18" />
+			<Effect value="3205608001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="2">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3204613001" amount="16" />
+			<Effect value="3205607001" amount="18" />
+			<Effect value="3205608001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="3">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3205609001" amount="16" />
+			<Effect value="3205607001" amount="18" />
+			<Effect value="3205608001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="4">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3203613001" amount="16" />
+			<Effect value="3299606001" amount="18" />
+			<Effect value="3299605001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="5">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3205613001" amount="16" />
+			<Effect value="3205607001" amount="18" />
+			<Effect value="3205608001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="6">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3203613001" amount="16" />
+			<Effect value="3299606001" amount="18" />
+			<Effect value="3299605001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+	</Level>
+	<Level value="1">
+		<Group category="Weapon" subcategory="0">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3299600001" amount="24" />
+		</Group>
+		<Group category="Weapon" subcategory="1">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3202613001" amount="16" />
+			<Effect value="3205607001" amount="18" />
+			<Effect value="3205608001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="2">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3204613001" amount="16" />
+			<Effect value="3205607001" amount="18" />
+			<Effect value="3205608001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="3">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3205609001" amount="16" />
+			<Effect value="3205607001" amount="18" />
+			<Effect value="3205608001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="4">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3203613001" amount="16" />
+			<Effect value="3299606001" amount="18" />
+			<Effect value="3299605001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="5">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3205613001" amount="16" />
+			<Effect value="3205607001" amount="18" />
+			<Effect value="3205608001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+		<Group category="Weapon" subcategory="6">
+			<Effect value="3299600101" amount="2" />
+			<Effect value="3299600201" amount="4" />
+			<Effect value="3299600301" amount="6" />
+			<Effect value="3299600401" amount="8" />
+			<Effect value="3299600501" amount="10" />
+			<Effect value="3299600601" amount="12" />
+			<Effect value="3299600701" amount="14" />
+			<Effect value="3203613001" amount="16" />
+			<Effect value="3299606001" amount="18" />
+			<Effect value="3299605001" amount="20" />
+			<Effect value="3299600001" amount="22" />
+		</Group>
+	</Level>
+</EnchantSystem>
