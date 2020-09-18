@@ -20,4 +20,4 @@ Requirements :  <br />
 [MariaDB](https://mariadb.org/) or [MySQL](https://www.mysql.com/) <br />
 Windows only: [.Net Framework 4.7.2](https://www.microsoft.com/net/download/thank-you/net472) <br /><br />
 
-A Special Thanks To [WtfBlub](https://github.com/wtfblub) and [Deىny9700](https://github.com/Denny9700)
+A Special Thanks To [WtfBlub](https://github.com/wtfblub) and [Denny9700](https://github.com/Denny9700)
