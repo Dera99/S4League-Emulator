@@ -47,6 +47,7 @@ namespace NeoNetsphere
             AutoRegister = false;
             LauncherCheck = false;
             Database = new DatabasesConfig();
+            Count = new PlayerCount();
         }
 
         public static Config Instance { get; }
@@ -159,8 +160,17 @@ namespace NeoNetsphere
         MySQL,
         PostgreSQL
     }
+
     public class PlayerCount
     {
+         public PlayerCount()
+            {
+                FtpUrl = "";
+                FtpUser = "";
+                FtpPass= "";
+                Countfile= "";
+            }
+
         [JsonProperty("FtpUrl")] public string Url { get; set; }
 
         [JsonProperty("FtpUser")] public string Username { get; set; }
@@ -170,4 +180,5 @@ namespace NeoNetsphere
         [JsonProperty("Countfile")] public string Countfile { get; set; }
 
     }
+
 }
