@@ -1,6 +1,7 @@
 # S4League-Emulator
 My Edited Version of Wtfblub netsphere pirates :D , works for Season 7 - 10 <br />
-[Download 1379 Season 10 Client](https://drive.google.com/file/d/1dUALkf255aSfIRQRWRgI1RWlK4NNZUeD) <br /><br />
+
+[Download 1379 Season 10 Client With BE](https://mega.nz/file/DfhmQSrI#40OEzSRU2mmTj3ZSuxvIp2p-LJJpzHwGMu4ZZNsyUck) <br /><br />
 
 Emulator Features :  <br />
 Enchant System For Weapons Only <br />
